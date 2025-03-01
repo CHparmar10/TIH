@@ -1,0 +1,6 @@
+@TIH.API_HostAddress = http://localhost:5008
+
+GET {{TIH.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

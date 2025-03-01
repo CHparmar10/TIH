@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "g6oR6IfHQDOFJDasGDu4vASkOspHBRq/qIyAfR0QKAU=",
+  "Source": "TIH.API",
+  "BasePath": "_content/TIH.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
